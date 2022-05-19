@@ -1,2 +1,1 @@
-# redux
-React Redux Guide From Beginners To Advance
+## React Redux Guide From Beginners To Advance
